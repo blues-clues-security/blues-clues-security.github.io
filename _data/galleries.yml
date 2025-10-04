@@ -1,0 +1,9 @@
+projgrid:
+  - url: /assets/img/card-join.png
+    image_path: /assets/img/card-join.png
+    alt: "Minecraft Server"
+    title: "Secure Minecraft Server"
+  - url: /assets/img/card-projects.png
+    image_path: /assets/img/card-projects.png
+    alt: "Logs Detective"
+    title: "Logs Detective"

@@ -1,7 +1,3 @@
-theme: jekyll-theme-minimal
-title: Cosby Cyber
-description: Cosby Cyber Homepage
-
 title: Cosby Cyber
 description: Cosby High School Cyber Club
 url: https://cosbycyber.com
@@ -34,3 +30,6 @@ logo: /assets/img/cosby_high_logo.jpg # optional if you have one
 repository: blues-clues-security/blues-clues-security.github.io
 atom_feed:
   hide: true
+show_excerpts: false
+breadcrumbs: true
+search: false
