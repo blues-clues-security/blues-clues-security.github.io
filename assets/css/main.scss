@@ -1,0 +1,22 @@
+@import "minimal-mistakes/skins/air";   // matches _config.yml skin
+@import "minimal-mistakes";             // theme core
+
+/* ===== Cosby quick overrides ===== */
+/* Font (swap if you like) */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Merriweather:wght@700&display=swap");
+:root {
+  --mm-font-family: "Inter", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  --mm-heading-font-family: "Merriweather", Georgia, serif;
+}
+
+/* Color accents (adjust to taste) */
+:root {
+  --mm-accent-color: #1e3a8a;   /* deep blue */
+  --mm-link-color:   #1e3a8a;
+  --mm-link-hover-color: #0ea5e9;
+  --mm-btn-primary-color: var(--mm-accent-color);
+}
+
+/* Make cards/sections a bit more modern */
+.page__content .notice--primary { border-radius: 14px; }
+.page__hero--overlay { border-radius: 14px; }

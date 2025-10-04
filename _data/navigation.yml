@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Calendar"
+    url: /calendar/
+  - title: "Resources"
+    url: /resources/
+  - title: "Projects"
+    url: /projects/
+  - title: "Policies"
+    url: /policies/

@@ -1,3 +1,36 @@
 theme: jekyll-theme-minimal
 title: Cosby Cyber
 description: Cosby Cyber Homepage
+
+title: Cosby Cyber
+description: Cosby High School Cyber Club
+url: https://cosbycyber.com
+theme: null
+remote_theme: mmistakes/minimal-mistakes
+
+# Basic site toggles
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+minimal_mistakes_skin: "air"  # options: default, air, aqua, contrast, dark, dirt, mint, neon, sunrise
+
+# Navigation (uses _data/navigation.yml)
+nav:
+  - title: Home
+    url: /
+  - title: Calendar
+    url: /calendar/
+  - title: Resources
+    url: /resources/
+  - title: Projects
+    url: /projects/
+  - title: Policies
+    url: /policies/
+
+# Header + footer basics
+logo: /assets/img/cosby_high_logo.jpg # optional if you have one
+repository: blues-clues-security/blues-clues-security.github.io
+atom_feed:
+  hide: true
