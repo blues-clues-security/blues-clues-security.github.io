@@ -4,9 +4,6 @@ title: "Projects"
 permalink: /projects/
 toc: true
 ---
-
-{% include gallery caption="Highlights" id="projgrid" %}
-
 ## Class Instruction
 
 Classes should alternate between fun and cybersecurity concepts in order for students to feel more like a club than a class. The fun courses will still be focused on developing skills using the core concepts taught, but with the focus on developing something the students can use in everyday life (i.e. Minecraft server, deploying websites, etc.).
