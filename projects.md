@@ -37,15 +37,9 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
 
 ### Fun Topics
 
-- Minecraft Calculator/Computer
-- Minecraft LLM (Long)
-  - [ChatGPT in MineCraft](https://www.youtube.com/watch?v=VaeI9YgE1o8)
-  - [CraftGPT Github](https://github.com/sammyuri/craftgpt)
-  - [Minecraft High-Performance Redstone Server](https://github.com/MCHPR/MCHPRS)
-- Build and Host a Website
-- Host a Minecraft Server
+The goal with fun topics is to break up the monotony of focusing purely on academic concepts and instead apply/learning cyber security concepts through projects that students are interested in.
 
-1) Spin-up a Secure Minecraft Server
+#### Fun Topic 1: Spin-up a Secure Minecraft Server
 
     Skills: Linux basics, users/groups, ports, backups, updates, basic threat model
     Materials: 1 spare PC or cloud VM; or local host + LAN
@@ -63,7 +57,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     30m: Mini-incident drill (bad plugin or rogue OP—how to recover from backup).
     Homework: Add scheduled backups + integrity hash; write a short admin SOP.
 
-2) Redstone Crypto: Build a 4-bit ALU (Minecraft Calculator/Computer)
+#### Fun Topic 2: Redstone Crypto: Build a 4-bit ALU (Minecraft Calculator/Computer)
 
     Skills: Logic gates, truth tables, documentation discipline
     Materials: Minecraft Java (single player is fine)
@@ -79,7 +73,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     20m: “Posture review” (signal leaks, timing).
     Homework: Add a 4-bit comparator; short write-up with screenshots.
 
-3) “Shipyard CTF”: Hardening a Mini-Game Server
+#### Fun Topic 3: “Shipyard CTF”: Hardening a Mini-Game Server
 
     Skills: Service enumeration, patching, log review
     Materials: Two laptops (attacker/defender) or two VMs
@@ -95,7 +89,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     30m: Rematch + debrief.
     Homework: Create a hardening checklist and submit PRs to class repo.
 
-4) “Alien Ciphers”: Break & Make Classic Crypto
+#### Fun Topic 4: “Alien Ciphers”: Break & Make Classic Crypto
 
     Skills: Frequency analysis, keys/secrets handling ethics
     Materials: Paper pencils + laptop
@@ -111,7 +105,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     30m: Students encode their own “mission orders” & trade to decode.
     Homework: Implement a substitution solver or write up frequency method.
 
-5) “Holodeck Logs”: Intro to DFIR with Game-Style Artifacts
+#### Fun Topic 5: “Holodeck Logs”: Intro to DFIR with Game-Style Artifacts
 
     Skills: Timeline building, log parsing, IOC thinking
     Materials: Pre-made log bundle (web, auth, app)
@@ -127,7 +121,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     30m: Draft a 1-page “exec summary.”
     Homework: Write 3 detections (grep/jq one-liners) for the IOCs found.
 
-6) “Starship Beacon”: Build & Break a Tiny Web App
+#### Fun Topic 6: “Starship Beacon”: Build & Break a Tiny Web App
 
     Skills: Web basics, input validation, auth/roles
     Materials: Any laptop
@@ -143,7 +137,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     20m: Write one unit test and a README.
     Homework: Add role-based access (pilot vs. captain).
 
-7) “Base Perimeter”: Wi-Fi Scanner & Simple IDS Light
+#### Fun Topic 7: “Base Perimeter”: Wi-Fi Scanner & Simple IDS Light
 
     Skills: Wireless scanning ethics, basic pattern detection
     Materials: ESP32 or laptop with monitor mode capable NIC
@@ -159,7 +153,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     30m: Output a small HTML dashboard.
     Homework: Add an “allowlist” and alert for rogue SSIDs.
 
-8) “Arcade Cabinet” Personal Site (Your idea: Build & Host a Website)
+#### Fun Topic 8: “Arcade Cabinet” Personal Site (Your idea: Build & Host a Website)
 
     Skills: Static hosting, HTTPS, change control
     Materials: Student laptop
@@ -175,7 +169,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     30m: Add a change log page (what changed, why).
     Homework: Add a contact form via serverless function (rate-limited).
 
-9) “Scoreboard API”: Build a Tiny JSON API + Client
+#### Fun Topic 9: “Scoreboard API”: Build a Tiny JSON API + Client
 
     Skills: REST basics, auth, input validation
     Materials: Laptop only
@@ -191,7 +185,7 @@ Classes should alternate between fun and cybersecurity concepts in order for stu
     30m: Create a minimal HTML client page.
     Homework: Add pagination + “admin reset” route guarded by a secret.
 
-10) “Stream Safe”: Privacy & OPSEC for Gamers (Bring your personal PC and let's secure it day)
+#### Fun Topic 10: “Stream Safe”: Privacy & OPSEC for Gamers (Bring your personal PC and let's secure it day)
 
     Skills: Password managers, MFA, device hardening, Discord safety
     Materials: Laptop + personal accounts (optional)

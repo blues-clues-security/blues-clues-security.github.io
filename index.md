@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: "Cosby Cyber"
+title: ""
 permalink: /
 header:
   overlay_color: "#0f172a"
   overlay_filter: 0.35
   overlay_image: /assets/img/hero.jpg
 intro: 
-  - excerpt: "Cosby Cyber Club is a cyber security focused on preparing Cosby High Students to participate in the national cyber defense competition “Cyber Patriot”, and providing opportunities to learn cyber security topics through video games, robotics and science fiction."
+  - excerpt: "A Cosby High club focused on cybersecurity competition readiness and hands-on training through video games, robotics, and sci-fi."
 feature_row:
   - alt: "Projects"
     title: "Projects"
-    excerpt: "Websites, Minecraft servers, mini-CTFs, and more."
+    excerpt: "Club Projects and Cyber Patriot Curriculum Outline"
     url: "/projects/"
     btn_label: "See Projects"
     btn_class: "btn--inverse"

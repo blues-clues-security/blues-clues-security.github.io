@@ -5,6 +5,16 @@ permalink: /resources/
 toc: true
 ---
 
+## Guides
+
+TODO
+
+## Cheat Sheets
+
+TODO
+
+## Links
+
 - [CyberPatriot 17 New Coach Workshop 2024-25](https://www.youtube.com/watch?v=OFff50XGNJI)
 - [Competition Training Materials](https://www.uscyberpatriot.org/competition/training-materials)
 - [AFA Cybercamps (with curriculum overview)](https://www.uscyberpatriot.org/afa-cybercamps/overview)
