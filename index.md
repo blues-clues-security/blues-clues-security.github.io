@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: ""
+classes: no-hero-title 
 permalink: /
 header:
   overlay_color: "#0f172a"

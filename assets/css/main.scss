@@ -1,3 +1,6 @@
+---
+---
+
 @import "minimal-mistakes/skins/air";
 @import "minimal-mistakes";
 
@@ -9,6 +12,16 @@
   --mm-accent-color: #1e3a8a;      /* primary deep blue */
   --mm-link-color:   #1e3a8a;
   --mm-link-hover-color: #0ea5e9;  /* lighter blue */
+}
+
+/* Hide the page title text in the splash hero on the home page */
+.no-hero-title .page__hero--overlay .page__title { 
+  display: none !important; 
+}
+
+/* Hide masthead text title; keep the logo */
+.masthead .site-title { 
+  display: none !important; 
 }
 
 /* Softer footer */
