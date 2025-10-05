@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-minimal_mistakes_skin: "air"  # options: default, air, aqua, contrast, dark, dirt, mint, neon, sunrise
+minimal_mistakes_skin: "dark"  # options: default, air, aqua, contrast, dark, dirt, mint, neon, sunrise
 
 # Navigation (uses _data/navigation.yml)
 nav:
