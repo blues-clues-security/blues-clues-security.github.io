@@ -6,22 +6,9 @@ header:
   overlay_color: "#0f172a"            # deep slate overlay
   overlay_filter: 0.35                # darken the hero for readable text
   overlay_image: /assets/img/hero.jpg # wide banner (1600×600+)
-  actions:
-    - label: "Join the Club"
-      url: /join/
-    - label: "Calendar"
-      url: /calendar/
-excerpt: "Cyber club projects, resources, and calendar."
 intro: 
-  - excerpt: "We build useful, secure things—then explain how they work. No experience required."
+  - excerpt: "Cosby Cyber Club is a cyber security focused on preparing Cosby High Students to participate in the national cyber defense competetion \"Cyber Patriot\", and providing opportunities to learn cyber security topics through video games, robotics and science fiction"
 feature_row:
-  - image_path: /assets/img/card-join.png
-    alt: "Join"
-    title: "Start here"
-    excerpt: "What to expect, how to join, and our code of conduct."
-    url: "/join/"
-    btn_label: "Join the Club"
-    btn_class: "btn--primary"
   - image_path: /assets/img/card-projects.png
     alt: "Projects"
     title: "Projects"
