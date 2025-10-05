@@ -16,12 +16,12 @@ minimal_mistakes_skin: "dark"  # options: default, air, aqua, contrast, dark, di
 nav:
   - title: Home
     url: /
-  - title: Calendar
-    url: /calendar/
-  - title: Resources
-    url: /resources/
   - title: Projects
     url: /projects/
+  - title: Resources
+    url: /resources/
+  - title: Calendar
+    url: /calendar/
   - title: Policies
     url: /policies/
 

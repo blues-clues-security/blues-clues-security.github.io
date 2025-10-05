@@ -5,7 +5,7 @@ classes: no-hero-title
 permalink: /
 header:
   overlay_color: "#0f172a"
-  overlay_filter: 0.35
+  overlay_filter: 0.45
   overlay_image: /assets/img/hero.jpg
 intro: 
   - excerpt: "A Cosby High club focused on cybersecurity competition readiness and hands-on training through video games, robotics, and sci-fi."
